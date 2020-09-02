@@ -340,6 +340,22 @@
   font-weight: 400;
 }
 
+.link:hover {
+  color: cyan;
+}
+
+.link-2:hover {
+  color: cyan;
+}
+
+.link-3:hover {
+  color: cyan;
+}
+
+.repo-text:hover {
+  color: cyan;
+}
+
 .footer-link {
   display: block;
   margin-bottom: 10px;

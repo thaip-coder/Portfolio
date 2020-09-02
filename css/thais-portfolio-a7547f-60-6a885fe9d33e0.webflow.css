@@ -236,6 +236,22 @@ a {
   font-weight: 400;
 }
 
+.link:hover {
+  color: cyan;
+}
+
+.link-2:hover {
+  color: cyan;
+}
+
+.link-3:hover {
+  color: cyan;
+}
+
+.repo-text:hover {
+  color: cyan;
+}
+
 .text-block-4 {
   color: #857b7b;
   text-align: left;
